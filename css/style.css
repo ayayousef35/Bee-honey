@@ -146,6 +146,7 @@ header nav .toggle-menu{
     color: #a2a2a2;
     font-size: 22px;
     transition: .3s;
+    
 }
 @media (min-width:768px){
     header nav .toggle-menu{
@@ -203,6 +204,9 @@ header nav .form i{
     top: 50%;
     transform: translateY(-50%);
     right: 0;
+}
+header nav .form i:hover{
+    color: #ffea2f;
 }
 
 /* End Header */
